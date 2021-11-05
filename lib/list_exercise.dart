@@ -9,7 +9,6 @@ class ListExercise extends StatefulWidget {
 }
 
 class _ListExerciseState extends State<ListExercise> {
-  bool doesContain = false;
 
   //問２： TextFieldの入力を管理するウィジェット。
   TextEditingController numberEditingController = TextEditingController();
